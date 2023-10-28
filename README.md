@@ -7,8 +7,7 @@ Hi, I'm Shikha, **Computer Science 🎓** at **Thapar Institute of Engineering a
 
 ## ⚡️ A Few Fun Facts
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working as Front Web Development
-- 🌱 I’m currently learning **Machine Learning,React,FastAPI**
+- 🌱 I’m currently learning **Machine Learning,React**
 - 💬 Ask me about **DSA, Django**
 - 📫 How to reach me **swdhw98@gmail.com**
 
